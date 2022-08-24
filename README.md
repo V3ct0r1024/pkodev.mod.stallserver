@@ -1,6 +1,6 @@
-[![PKOdev.NET](https://pkodev.net/uploads/monthly_2021_11/pkodevlogo_full.png.9c0b058fcf0ebbfd09e443f272c3d328.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
+[![logo-background](https://user-images.githubusercontent.com/3164064/163711104-29410e0d-3c86-411a-9319-9ffeaa62abb8.png)](http://pkodev.net "PKOdev.NET")
 ## TOP/PKO/KOP mod: pkodev.mod.stallserver
-Offline stall server connector. Modification for **[PKOdev.NET mod loader](https://pkodev.net/topic/5757-mod-loading-system-for-server-and-client-pkodevnet-mod-loader/)**.
+[**Offline stall server**](https://github.com/V3ct0r1024/pkodev.stallserver) connector. Modification for **[PKOdev.NET mod loader](https://pkodev.net/topic/5757-mod-loading-system-for-server-and-client-pkodevnet-mod-loader/)**.
 
 ## Modification information
 
